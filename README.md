@@ -21,5 +21,5 @@
 <h3 align="left"> Tech Stack </h3>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=js,ts,bootstrap,tailwind,react,nextjs,vue" />
-    <img src="https://skillicons.dev/icons?i=golang,express,nestjs,laravel,mysql,supabase,postgres,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=golang,express,nestjs,laravel,mysql,postgres" /><br>
 </div>
